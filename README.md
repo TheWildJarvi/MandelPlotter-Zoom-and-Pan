@@ -2,8 +2,9 @@
 Updated fixed function mandelbrot renderer in 'Digital'
 
 * Download latest version of 'Digital' here: https://github.com/hneemann/Digital
-* Downlaod all of my mandelbrot files
+* Download all of my mandelbrot files
 * Launch 'Digital' and open 'ZOOMBROT.dig'
+
      * Press Space to start the simulation 
      * Press Enable with your mouse
      * Press R to reset
