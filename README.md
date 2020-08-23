@@ -12,3 +12,5 @@ Updated fixed function mandelbrot renderer in 'Digital'
 
 You should see this:
 ![alt text](https://cdn.discordapp.com/attachments/676540661742305324/747158571422056458/unknown.png)
+
+Here is a video overview: https://youtu.be/q8HsuX_eo5U
